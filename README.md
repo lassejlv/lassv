@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lassv&label=Profile%20views&color=0e75b6&style=flat" alt="lassv" /> </p>
 
-- 🔭 I’m currently working on [Hypestyle CSS](https://hypestyle.netlify.app)
+- 🔭 I’m currently working on [Hypestyle CSS](https://hypestylecss.xyz)
 
 - 🌱 I’m currently learning **Tailwind CSS, Bootstrap, React**
 

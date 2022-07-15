@@ -1,4 +1,4 @@
-<h1 align="center">Hell there, im Lasse v</h1>
+<h1 align="center">Hello there, im Lasse v</h1>
 <h3 align="center">Im a frontend/backend web developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lassv&label=Profile%20views&color=0e75b6&style=flat" alt="lassv" /> </p>
